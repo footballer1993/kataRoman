@@ -16,7 +16,7 @@ public class RomanNumber {
 		
 		/* den Input von links nach rechts Buchstabenweise durchgehen und aufaddieren
 		 * Die Umrechnung erfolgt durch die Subtraktionsregel 
-		 * add
+		 * 
 		 * 
 		 * 
 		 * 
